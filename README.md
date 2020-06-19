@@ -1,4 +1,4 @@
-# Starter Web Repo
+## Starter Web Repo
 
 This is not an important message
 
